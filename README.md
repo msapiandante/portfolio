@@ -1,9 +1,6 @@
 # Melanie Tabamo Sapiandante's portfolio
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I wanted to challenge myself and learn new skills that will benefit me as I transition from the food industry to the tech industry. 
 I built this project to showcase who I am now and with some blood, sweat and tears, the developer I will be. 
 I learned that humility and patience are vital to this work and to be successful. 
@@ -41,4 +38,6 @@ SOFTWARE.
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+https://msapiandante.github.io/portfolio/
+
+image.png
